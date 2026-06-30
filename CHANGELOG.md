@@ -1,13 +1,17 @@
-mucbank development log
+mucbank 开发日志
 
 ---
 
-30.06.2026
+2026年6月30日
 
-Features:
-Added basic CLI menu, basic adding of transaction, viewing of transactions and exit
+功能：
+1. 添加了基本的命令行菜单、交易添加功能、交易查看功能和退出功能
 
-Fixed:
-None
+修复：
+无
+
+*后续补充：
+1. 项目的核心逻辑已移至 `lib` 模块，以确保架构清晰.
+2. 项目已翻译为中文.
 
 ---
