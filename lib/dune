@@ -1,2 +1,4 @@
 (library
- (name bank))
+ (name mucbank_lib)
+ (modules utils types transactions bank)
+)

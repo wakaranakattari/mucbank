@@ -1,4 +1,5 @@
 (executable
- (public_name bank)
- (name main)
- (libraries bank))
+ (name mucbank)
+ (libraries mucbank_lib)
+ (modules mucbank)
+)
